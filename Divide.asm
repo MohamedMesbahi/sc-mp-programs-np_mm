@@ -10,7 +10,7 @@
                 ;        +1     Dividend(H)     Quotient(L)
                 ;        +2     Dividend(L)     Remainder
                 ;
-    Quotient =      -1
+    Quot     =      -1
     DSOR     =      0
     DNDH     =      1
     DNDL     =      2
